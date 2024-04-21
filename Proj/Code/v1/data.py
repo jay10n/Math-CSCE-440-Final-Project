@@ -39,7 +39,30 @@ detailed_losses = {
         "Artillery": last_row["Ukraine_Artillery"],
     }
 }
-
+russia_military_assets_losses_for_from_russian_media = {
+    "Russia": {
+        "Tanks": "1180",
+        "AFV": "estimated_numbers",
+        "IFV": "2470",
+        "APC": "2470",
+    }
+}
+russia_military_assets_losses_for_from_ukrianian_media = {
+    "Personnel": 447510,
+    "Tanks": 7074,
+    "AFVs": 13551,
+    "Artillery": 11316,
+    "MLRS": 1036,
+    "AntiAir": 749,
+    "Aircraft": 347,
+    "Helicopters": 325,
+    "UAVs": 8956,    
+    "CruiseMissiles": 2064,
+    "Ships": 26,      
+    "Submarines": 1, 
+    "Vehicles": 15071,
+    "SpecialEquipment": 1864 ,
+}
 for country, categories in detailed_losses.items():
     print(f"{country}:")
     for category, value in categories.items():
