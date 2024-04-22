@@ -69,3 +69,44 @@ for country, categories in detailed_losses.items():
         print(f"  {category}: {value}")
     print()
 
+import pandas as pd
+
+
+def load_data(file_path):
+    try:
+        return pd.read_excel(file_path)
+    except FileNotFoundError:
+        print("The file was not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+
+
+def extract_losses(data):
+    if data is None:
+        return None
+
+    last_row = data.iloc[-1]
+    categories = ["Tanks", "AFV", "IFV", "APC", "IMV", "Engineering", "Communications", "Vehicles", "Aircraft",
+                  "Infantry", "Logistics", "Armor", "Anti-Air", "Artillery"]
+    losses = {country: {cat: last_row[f"{country}_{cat}"] for cat in categories} for country in ["Russia", "Ukraine"]}
+    return losses
+
+
+def print_losses(losses):
+    if losses is None:
+        return
+
+    for country, categories in losses.items():
+        print(f"{country}:")
+        for category, value in categories.items():
+            print(f"  {category}: {value}")
+        print()
+
+
+# Main execution
+file_path = 'data_excel.xlsx'
+data = load_data(file_path)
+detailed_losses = extract_losses(data)
+print_losses(detailed_losses)
