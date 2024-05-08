@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eebc002-0f65-4067-9f3f-9b9b3353dcd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MATH440-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/Documented/cleaned_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/Documented/documented_losses.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Fixed_russian_losses_by_ukraine.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Russia's losses in Ukraine - official data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Russia's losses in Ukraine - official data.webarchive" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/cleaning_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/scratch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/scripts/cleaning_xlsx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NumericalMethods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invalid_lines_output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainNotebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marked_invalid_lines.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/russian_loss_com/Claimed vs documented russian.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/russian_loss_com/final_merged_RussianLosses_comparison.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1eebc002-0f65-4067-9f3f-9b9b3353dcd8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -62,7 +39,9 @@
     &quot;Python.cleaning_xlsx.executor&quot;: &quot;Run&quot;,
     &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jaytonschmeeckle/Local/Repos/Math-CSCE-440-Final-Project/MATH440-Project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -143,13 +122,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/cleaning_csv.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
