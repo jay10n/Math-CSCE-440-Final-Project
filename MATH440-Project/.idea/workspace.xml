@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eebc002-0f65-4067-9f3f-9b9b3353dcd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MATH440-Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/Documented/cleaned_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/Documented/documented_losses.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Fixed_russian_losses_by_ukraine.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Russia's losses in Ukraine - official data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/Russia's losses in Ukraine - official data.webarchive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/cleaning_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/scripts/cleaning_xlsx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumericalMethods.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invalid_lines_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainNotebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marked_invalid_lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/russian_loss_com/Claimed vs documented russian.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/russian_loss_com/final_merged_RussianLosses_comparison.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fYufpncNFUgw13MvXFj6ITJWIC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Current File.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cleaning_xlsx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/russian_loss_com" />
+      <recent name="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine" />
+      <recent name="$PROJECT_DIR$/Data/scripts" />
+      <recent name="$PROJECT_DIR$/Data/SourceFiles/RussianLosses" />
+      <recent name="$PROJECT_DIR$/Data/SourceFiles/Documented" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Current File">
+    <configuration name="Current File" type="PythonConfigurationType" factoryName="Python">
+      <module name="MATH440-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="math440" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$FilePathRelativeToProjectRoot$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MATH440-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Current File" />
+      <item itemvalue="Python.scratch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-559ba0cadc45-1e0160e1c7f0-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.15989.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data/SourceFiles/RussianLosses/ByUkraine/cleaning_csv.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
