@@ -1,7 +1,7 @@
 import nbformat
 
 # Load the Jupyter Notebook
-notebook_path = '/Users/jaytonschmeeckle/Local/Repos/Math-CSCE-440-Final-Project/MATH440-Project/NoteBooks/nb1-DataPreparation-CSV.ipynb'
+notebook_path = '/Users/jaytonschmeeckle/Local/Repos/Math-CSCE-440-Final-Project/MATH440-Project/NoteBooks/nb2-EDA.ipynb'
 with open(notebook_path, 'r', encoding='utf-8') as f:
     nb = nbformat.read(f, as_version=4)
 
